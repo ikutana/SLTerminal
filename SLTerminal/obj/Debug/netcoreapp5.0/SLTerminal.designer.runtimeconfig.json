@@ -1,0 +1,19 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp5.0",
+    "framework": {
+      "name": "Microsoft.WindowsDesktop.App",
+      "version": "5.0.0-preview.4.20251.1"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\ikuta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ikuta\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback",
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
